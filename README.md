@@ -1,2 +1,2 @@
 # My-first-project-
-Hi iam sabarivasan from the department of ECE.
+Hi iam sabarivasan from the department of ECE students learning c++ and python 
